@@ -1,0 +1,47 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# week 1\n",
+    "### tips about notebook\n",
+    "#### 1) bash scriptswith ! abd %%bash\n",
+    "#### 2) passing python variables to bash script by using $varname\n",
+    "#### 3)  formulas with LaTeX format after $$\n",
+    "#### 4) %lsmagic  -  many many intersting injections to jupiter notebooks\n",
+    "#### 5) plotting of sipmle graps with %pylab"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "print 'helloworld'"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "print \"hi\""
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    ""
+   ]
+  }
+ ],
+ "metadata": {},
+ "nbformat": 4,
+ "nbformat_minor": 0
+}
