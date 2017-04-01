@@ -10,7 +10,25 @@
     "#### 2) passing python variables to bash script by using $varname\n",
     "#### 3)  formulas with LaTeX format after $$\n",
     "#### 4) %lsmagic  -  many many intersting injections to jupiter notebooks\n",
-    "#### 5) plotting of sipmle graps with %pylab"
+    "#### 5) plotting of sipmle graps with %pylab\n",
+    "\n",
+    "# Types:\n",
+    "## list\n",
+    "## tuple\n",
+    "## dict\n",
+    "## set\n",
+    "\n",
+    "# brackets\n",
+    "## {} - Set \n",
+    "## () - tuple\n",
+    "## [] - list\n",
+    "\n",
+    "# list vs generator\n",
+    "## [] - list, create array in memory, range, [x**2 for x range(1:5) if x % 2 == 0] - list comprehension\n",
+    "## () - generator, create values in runtime, xrange (x**2 for x range(1:5) if x % 2 ==0)\n",
+    "\n",
+    "## map(function, collection) apply function to all element in collection \n",
+    "## map(lambda x: x**2,range(5))"
    ]
   },
   {
